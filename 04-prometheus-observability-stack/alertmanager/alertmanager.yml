@@ -7,7 +7,7 @@ route:
 receivers:
 - name: 'email-notifications' # Define the email receiver
   email_configs:
-    - to: 'your-email@example.com' # Replace with your email address
+    - to: 'azizkhan.cool@gmail.com' # Replace with your email address
       from: 'prometheus@example.com' # Replace with the sender email address
       smarthost: 'smtp.example.com:587' # Replace with your SMTP server address and port
       auth_username: 'your-username' # Replace with your SMTP username
